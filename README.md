@@ -1,2 +1,2 @@
 # Pokemon-Chinese
-Pokemon English-Chinese json
+9th gen Pokemon English-Chinese json
