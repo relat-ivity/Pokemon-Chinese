@@ -1,5 +1,5 @@
 # Pokemon-Chinese
-9th Gen Pokemon English-Chinese translation in json.
+9th Gen Pokemon English-Chinese translation in Json.
 
 
 📕已翻译条目:
