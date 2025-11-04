@@ -1,9 +1,9 @@
 # Pokemon-Chinese
-9th gen Pokemon English-Chinese translation in json
+9th Gen Pokemon English-Chinese translation in json.
 
 
-✓ 已翻译条目:
-- 宝可梦: 1024 个
-- 招式: 935 个
-- 道具: 889 个
-- 特性: 307 个
+📕已翻译条目:
+- 宝可梦Pokemons: 1024 个
+- 招式moves: 935 个
+- 道具items: 889 个
+- 特性abilities: 307 个
